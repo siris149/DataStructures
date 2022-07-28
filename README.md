@@ -3,4 +3,4 @@ practice Ds and algos
 
 
 
-#siri, next time when you are confused where to start, come here!
+#siri, next time when you get confused where to start, come check this repo!
