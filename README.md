@@ -3,7 +3,7 @@ practice Ds and algos
 
 
 
-#siri, next time when you get confused where to start, come check this repo!
+Compilation of problems covering various scenarios for quick reference. 
 
 
 1. Binary search
@@ -18,3 +18,4 @@ practice Ds and algos
 10. Key value - variations
 11. Memory and caching
 12. Machine learning
+13. Misc
